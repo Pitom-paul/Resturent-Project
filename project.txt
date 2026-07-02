@@ -1,0 +1,128 @@
+🍽️ Project: Foodie's Restaurant (HTML Only)
+1. Header
+Restaurant Logo (Image)
+Restaurant Name (H1)
+Tagline
+2. Navigation
+
+Menu তৈরি করুন:
+
+Home
+About
+Menu
+Offers
+Gallery
+Contact
+3. Hero Section
+
+এখানে থাকবে:
+
+Welcome Heading
+ছোট Description
+Food Image
+Order Now Button
+4. Today's Special Offer (Discount Section)
+
+একটি অফার সেকশন তৈরি করুন।
+
+Example Content
+
+🔥 Today's Special Offer
+
+Burger Combo
+Previous Price: 500 Tk
+Discount: 30% OFF
+New Price: 350 Tk
+Offer Valid Until: 31 July 2026
+Order Now Button
+
+এখানে <del>, <strong>, <mark> ট্যাগ ব্যবহার করার চেষ্টা করুন।
+
+5. Restaurant Menu (Table)
+Food Name	Original Price	Discount	Final Price	Available
+Chicken Burger	350 Tk	10%	315 Tk	Yes
+Beef Pizza	700 Tk	20%	560 Tk	Yes
+Fried Rice	300 Tk	15%	255 Tk	Yes
+BBQ Chicken	500 Tk	25%	375 Tk	Yes
+Pasta	280 Tk	5%	266 Tk	Yes
+Cold Coffee	180 Tk	0%	180 Tk	No
+6. Popular Foods
+
+৬টি খাবার দেখান।
+
+প্রতিটির জন্য:
+
+Image
+Food Name
+Description
+Price
+7. Customer Reviews
+
+৩টি Review লিখুন।
+
+প্রতিটির জন্য:
+
+Customer Name
+⭐⭐⭐⭐⭐ Rating
+Comment
+8. Reservation Form
+
+Form-এ থাকবে:
+
+Full Name
+Email
+Phone
+Date
+Time
+Number of Guests
+Message
+Submit Button
+Reset Button
+9. Contact Section
+Address
+Phone
+Email
+Google Maps Link
+10. Footer
+Copyright
+Facebook
+Instagram
+YouTube
+✅ HTML Tags You Should Use
+<header>
+<nav>
+<main>
+<section>
+<article>
+<figure>
+<figcaption>
+<h1>–<h3>
+<p>
+<img>
+<a>
+<table>
+<form>
+<label>
+<input>
+<textarea>
+<button>
+<footer>
+<mark>
+<strong>
+<del>
+<hr>
+🎯 Extra Challenge (Optional)
+
+"Discount Calculator" নামে একটি Table তৈরি করুন:
+
+Food	Price	Discount	Final Price
+Burger	400 Tk	25%	300 Tk
+Pizza	800 Tk	20%	640 Tk
+Pasta	300 Tk	10%	270 Tk
+Rules
+✅ শুধু HTML5 ব্যবহার করবেন।
+❌ CSS ব্যবহার করবেন না।
+❌ JavaScript ব্যবহার করবেন না।
+✅ Semantic HTML (header, nav, main, section, footer) ব্যবহার করার চেষ্টা করুন।
+
+এটি একজন Beginner থেকে Intermediate HTML Learner-এর জন্য খুব ভালো প্র্যাকটিস প্রজেক্ট হবে।
